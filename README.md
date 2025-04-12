@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on [PingPanda - A Modern Fullstack Event Monitoring SaaS](https://github.com/oguzsamsa/pingpanda)
-
-- 🌱 I’m currently learning **NextJS and TypeScript**
-
 - 📫 How to reach me **oguzsamsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
